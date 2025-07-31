@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSharp2\\CSharpEducation\\EmployeeAccounting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84EE58-82EC-414E-8F7D-2B0C08BEC2D8}|EmployeeAccounting\\EmployeeAccounting.csproj|c:\\csharp2\\csharpeducation\\employeeaccounting\\employeeaccounting\\models\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84EE58-82EC-414E-8F7D-2B0C08BEC2D8}|EmployeeAccounting\\EmployeeAccounting.csproj|solutionrelative:employeeaccounting\\models\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FullTimeEmployee.cs",
+              "DocumentMoniker": "C:\\CSharp2\\CSharpEducation\\EmployeeAccounting\\EmployeeAccounting\\Models\\FullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeAccounting\\Models\\FullTimeEmployee.cs",
+              "ToolTip": "C:\\CSharp2\\CSharpEducation\\EmployeeAccounting\\EmployeeAccounting\\Models\\FullTimeEmployee.cs",
+              "RelativeToolTip": "EmployeeAccounting\\Models\\FullTimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T06:52:13.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
