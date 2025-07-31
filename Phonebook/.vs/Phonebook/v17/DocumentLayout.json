@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSharpUnitest\\Phonebook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23A46E7F-A6A5-4271-9B2F-3144490FC3F5}|TestProject1\\TestProject1.csproj|c:\\csharpunitest\\phonebook\\testproject1\\nunitsubscribertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A46E7F-A6A5-4271-9B2F-3144490FC3F5}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\nunitsubscribertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A46E7F-A6A5-4271-9B2F-3144490FC3F5}|TestProject1\\TestProject1.csproj|c:\\csharpunitest\\phonebook\\testproject1\\nunitphonenumbervalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A46E7F-A6A5-4271-9B2F-3144490FC3F5}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\nunitphonenumbervalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A46E7F-A6A5-4271-9B2F-3144490FC3F5}|TestProject1\\TestProject1.csproj|c:\\csharpunitest\\phonebook\\testproject1\\nunitphonenumbertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A46E7F-A6A5-4271-9B2F-3144490FC3F5}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\nunitphonenumbertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A46E7F-A6A5-4271-9B2F-3144490FC3F5}|TestProject1\\TestProject1.csproj|c:\\csharpunitest\\phonebook\\testproject1\\nunitphonebooktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A46E7F-A6A5-4271-9B2F-3144490FC3F5}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\nunitphonebooktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NUnitPhonebookTest.cs",
+              "DocumentMoniker": "C:\\CSharpUnitest\\Phonebook\\TestProject1\\NUnitPhonebookTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\NUnitPhonebookTest.cs",
+              "ToolTip": "C:\\CSharpUnitest\\Phonebook\\TestProject1\\NUnitPhonebookTest.cs",
+              "RelativeToolTip": "TestProject1\\NUnitPhonebookTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T22:27:35.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NUnitSubscriberTest.cs",
+              "DocumentMoniker": "C:\\CSharpUnitest\\Phonebook\\TestProject1\\NUnitSubscriberTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\NUnitSubscriberTest.cs",
+              "ToolTip": "C:\\CSharpUnitest\\Phonebook\\TestProject1\\NUnitSubscriberTest.cs",
+              "RelativeToolTip": "TestProject1\\NUnitSubscriberTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T22:25:58.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NUnitPhoneNumberTest.cs",
+              "DocumentMoniker": "C:\\CSharpUnitest\\Phonebook\\TestProject1\\NUnitPhoneNumberTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\NUnitPhoneNumberTest.cs",
+              "ToolTip": "C:\\CSharpUnitest\\Phonebook\\TestProject1\\NUnitPhoneNumberTest.cs",
+              "RelativeToolTip": "TestProject1\\NUnitPhoneNumberTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T22:23:02.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NUnitPhoneNumberValidatorTest.cs",
+              "DocumentMoniker": "C:\\CSharpUnitest\\Phonebook\\TestProject1\\NUnitPhoneNumberValidatorTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\NUnitPhoneNumberValidatorTest.cs",
+              "ToolTip": "C:\\CSharpUnitest\\Phonebook\\TestProject1\\NUnitPhoneNumberValidatorTest.cs",
+              "RelativeToolTip": "TestProject1\\NUnitPhoneNumberValidatorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T22:20:45.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
